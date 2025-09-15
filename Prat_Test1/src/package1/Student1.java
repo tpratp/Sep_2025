@@ -7,6 +7,7 @@ int age , rollno;
 public void age()
 {
 	System.out.println("Student age is:" +age);
+	System.out.println("changes done by prat");
 	
 }
 
